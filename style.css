@@ -8,6 +8,7 @@ body {
 
 table {
     border-collapse: collapse;
+    counter-reset: step;
     
 }
 
@@ -15,7 +16,7 @@ table {
   margin: auto auto;
   width: 65%;
   /* border-collapse: collapse; */
-  background-color: #e0b7b4;
+  background-color: #a23a37;
   border-radius: 8px;
   padding: 2%;
   padding-left: 4%;
